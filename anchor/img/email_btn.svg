@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>email_btn</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="email_btn" sketch:type="MSArtboardGroup" transform="translate(-344.000000, -458.000000)" stroke="#FF4136">
+            <g sketch:type="MSLayerGroup" transform="translate(345.000000, 459.000000)">
+                <circle id="Oval-1" sketch:type="MSShapeGroup" cx="20" cy="20" r="20"></circle>
+                <rect id="Rectangle-32" sketch:type="MSShapeGroup" x="10" y="14" width="20" height="12" rx="2"></rect>
+                <path d="M11.0107422,14.9335938 C11.0107422,14.9335938 18.1149902,20.7122459 20.1149902,20.6943359 C22.1149902,20.6764259 29.2192383,14.8623047 29.2192383,14.8623047" id="Path-18" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>
